@@ -1,321 +1,321 @@
 <svg height="5086" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="5086" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-11 17:59:50 +0000  2644800 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-11 17:59:50 +0000     8343 bytes  AUTHORS</tspan>
-<tspan x="10" y="58">  2.  2017-04-11 17:59:50 +0000    67971 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-11 17:59:50 +0000     3689 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-11 17:59:50 +0000     1107 bytes  LICENSE</tspan>
-<tspan x="10" y="106">  5.  2017-04-11 17:59:50 +0000     1645 bytes  README.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-11 17:59:50 +0000     9117 bytes  addon/comment/comment.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-11 17:59:50 +0000     3399 bytes  addon/comment/continuecomment.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-11 17:59:50 +0000      507 bytes  addon/dialog/dialog.css</tspan>
-<tspan x="10" y="170">  9.  2017-04-11 17:59:50 +0000     4938 bytes  addon/dialog/dialog.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-11 17:59:50 +0000     1543 bytes  addon/display/autorefresh.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-11 17:59:50 +0000      116 bytes  addon/display/fullscreen.css</tspan>
-<tspan x="10" y="218"> 12.  2017-04-11 17:59:50 +0000     1494 bytes  addon/display/fullscreen.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-11 17:59:50 +0000     4274 bytes  addon/display/panel.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-11 17:59:50 +0000     2139 bytes  addon/display/placeholder.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-11 17:59:50 +0000     1915 bytes  addon/display/rulers.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-11 17:59:50 +0000     7240 bytes  addon/edit/closebrackets.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-11 17:59:50 +0000     7705 bytes  addon/edit/closetag.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-11 17:59:50 +0000     1836 bytes  addon/edit/continuelist.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-11 17:59:50 +0000     5349 bytes  addon/edit/matchbrackets.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-11 17:59:50 +0000     2355 bytes  addon/edit/matchtags.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-11 17:59:50 +0000     1003 bytes  addon/edit/trailingspace.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-11 17:59:50 +0000     3939 bytes  addon/fold/brace-fold.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-11 17:59:50 +0000     2161 bytes  addon/fold/comment-fold.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-11 17:59:50 +0000     4751 bytes  addon/fold/foldcode.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-11 17:59:50 +0000      435 bytes  addon/fold/foldgutter.css</tspan>
-<tspan x="10" y="442"> 26.  2017-04-11 17:59:50 +0000     4631 bytes  addon/fold/foldgutter.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-11 17:59:50 +0000     1689 bytes  addon/fold/indent-fold.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-11 17:59:50 +0000     1605 bytes  addon/fold/markdown-fold.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-11 17:59:50 +0000     6630 bytes  addon/fold/xml-fold.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-11 17:59:50 +0000     1680 bytes  addon/hint/anyword-hint.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-11 17:59:50 +0000     2165 bytes  addon/hint/css-hint.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-11 17:59:50 +0000    11341 bytes  addon/hint/html-hint.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-11 17:59:50 +0000     6437 bytes  addon/hint/javascript-hint.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-11 17:59:50 +0000      623 bytes  addon/hint/show-hint.css</tspan>
-<tspan x="10" y="586"> 35.  2017-04-11 17:59:50 +0000    16116 bytes  addon/hint/show-hint.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-11 17:59:50 +0000     9154 bytes  addon/hint/sql-hint.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-11 17:59:50 +0000     4735 bytes  addon/hint/xml-hint.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-11 17:59:50 +0000     1270 bytes  addon/lint/coffeescript-lint.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-11 17:59:50 +0000     1146 bytes  addon/lint/css-lint.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-11 17:59:50 +0000     1513 bytes  addon/lint/html-lint.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-11 17:59:50 +0000     4469 bytes  addon/lint/javascript-lint.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-11 17:59:50 +0000      954 bytes  addon/lint/json-lint.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-11 17:59:50 +0000     2999 bytes  addon/lint/lint.css</tspan>
-<tspan x="10" y="730"> 44.  2017-04-11 17:59:50 +0000     8251 bytes  addon/lint/lint.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-11 17:59:50 +0000     1072 bytes  addon/lint/yaml-lint.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-11 17:59:50 +0000     3249 bytes  addon/merge/merge.css</tspan>
-<tspan x="10" y="778"> 47.  2017-04-11 17:59:50 +0000    37394 bytes  addon/merge/merge.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-11 17:59:50 +0000     2277 bytes  addon/mode/loadmode.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-11 17:59:50 +0000     4624 bytes  addon/mode/multiplex.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-11 17:59:50 +0000      833 bytes  addon/mode/multiplex_test.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-11 17:59:50 +0000     3228 bytes  addon/mode/overlay.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-11 17:59:50 +0000     7899 bytes  addon/mode/simple.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-11 17:59:50 +0000     1303 bytes  addon/runmode/colorize.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-11 17:59:50 +0000     5302 bytes  addon/runmode/runmode-standalone.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-11 17:59:50 +0000     2499 bytes  addon/runmode/runmode.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-11 17:59:50 +0000     6528 bytes  addon/runmode/runmode.node.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-11 17:59:50 +0000     4443 bytes  addon/scroll/annotatescrollbar.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-11 17:59:50 +0000     1581 bytes  addon/scroll/scrollpastend.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-11 17:59:50 +0000     1347 bytes  addon/scroll/simplescrollbars.css</tspan>
-<tspan x="10" y="986"> 60.  2017-04-11 17:59:50 +0000     5462 bytes  addon/scroll/simplescrollbars.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-11 17:59:50 +0000     1940 bytes  addon/search/jump-to-line.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-11 17:59:50 +0000     5994 bytes  addon/search/match-highlighter.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-11 17:59:50 +0000      188 bytes  addon/search/matchesonscrollbar.css</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-11 17:59:50 +0000     3808 bytes  addon/search/matchesonscrollbar.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-11 17:59:50 +0000    10021 bytes  addon/search/search.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-11 17:59:50 +0000     7723 bytes  addon/search/searchcursor.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-11 17:59:50 +0000     2506 bytes  addon/selection/active-line.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-11 17:59:50 +0000     3845 bytes  addon/selection/mark-selection.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-11 17:59:50 +0000     3292 bytes  addon/selection/selection-pointer.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-11 17:59:50 +0000     1872 bytes  addon/tern/tern.css</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-11 17:59:50 +0000    24563 bytes  addon/tern/tern.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-11 17:59:50 +0000     1208 bytes  addon/tern/worker.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-11 17:59:50 +0000     5479 bytes  addon/wrap/hardwrap.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-11 17:59:50 +0000    13481 bytes  keymap/emacs.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-11 17:59:50 +0000    22599 bytes  keymap/sublime.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-11 17:59:50 +0000   200736 bytes  keymap/vim.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-11 17:59:50 +0000     8217 bytes  lib/codemirror.css</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-11 17:59:50 +0000   358669 bytes  lib/codemirror.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-11 17:59:50 +0000     4736 bytes  mode/apl/apl.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-11 17:59:50 +0000     2378 bytes  mode/asciiarmor/asciiarmor.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-11 17:59:50 +0000     7735 bytes  mode/asn.1/asn.1.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-11 17:59:50 +0000     7437 bytes  mode/asterisk/asterisk.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-11 17:59:50 +0000     2174 bytes  mode/brainfuck/brainfuck.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-11 17:59:50 +0000    30943 bytes  mode/clike/clike.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-11 17:59:50 +0000    16005 bytes  mode/clojure/clojure.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-11 17:59:50 +0000     2600 bytes  mode/cmake/cmake.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-11 17:59:50 +0000    10288 bytes  mode/cobol/cobol.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-11 17:59:50 +0000     9884 bytes  mode/coffeescript/coffeescript.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-11 17:59:50 +0000     4569 bytes  mode/commonlisp/commonlisp.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-11 17:59:50 +0000    12818 bytes  mode/crystal/crystal.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-11 17:59:50 +0000    37494 bytes  mode/css/css.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-11 17:59:50 +0000     6362 bytes  mode/cypher/cypher.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-11 17:59:50 +0000     7566 bytes  mode/d/d.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-11 17:59:50 +0000     5114 bytes  mode/dart/dart.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-11 17:59:50 +0000     1138 bytes  mode/diff/diff.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-11 17:59:50 +0000    11791 bytes  mode/django/django.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-11 17:59:50 +0000     2221 bytes  mode/dockerfile/dockerfile.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-11 17:59:50 +0000     4814 bytes  mode/dtd/dtd.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-11 17:59:50 +0000    10112 bytes  mode/dylan/dylan.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-11 17:59:50 +0000     6085 bytes  mode/ebnf/ebnf.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-11 17:59:50 +0000     8843 bytes  mode/ecl/ecl.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-11 17:59:50 +0000     3744 bytes  mode/eiffel/eiffel.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-11 17:59:50 +0000     5552 bytes  mode/elm/elm.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-11 17:59:50 +0000    18887 bytes  mode/erlang/erlang.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-11 17:59:50 +0000     2919 bytes  mode/factor/factor.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-11 17:59:50 +0000     4703 bytes  mode/fcl/fcl.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-11 17:59:50 +0000     5230 bytes  mode/forth/forth.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-11 17:59:50 +0000     8686 bytes  mode/fortran/fortran.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-11 17:59:50 +0000     8886 bytes  mode/gas/gas.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-11 17:59:50 +0000     5137 bytes  mode/gfm/gfm.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-11 17:59:50 +0000    13257 bytes  mode/gherkin/gherkin.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-11 17:59:50 +0000     6022 bytes  mode/go/go.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-11 17:59:50 +0000     7892 bytes  mode/groovy/groovy.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-11 17:59:50 +0000     5353 bytes  mode/haml/haml.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-11 17:59:50 +0000     2172 bytes  mode/handlebars/handlebars.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-11 17:59:50 +0000     1390 bytes  mode/haskell-literate/haskell-literate.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-11 17:59:50 +0000     8109 bytes  mode/haskell/haskell.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-11 17:59:50 +0000    17568 bytes  mode/haxe/haxe.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-11 17:59:50 +0000     1417 bytes  mode/htmlembedded/htmlembedded.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-11 17:59:50 +0000     5599 bytes  mode/htmlmixed/htmlmixed.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-11 17:59:50 +0000     2795 bytes  mode/http/http.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-11 17:59:50 +0000    14889 bytes  mode/idl/idl.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-11 17:59:50 +0000    31132 bytes  mode/javascript/javascript.js</tspan>
-<tspan x="10" y="2010">124.  2017-04-11 17:59:50 +0000     4284 bytes  mode/jinja2/jinja2.js</tspan>
-<tspan x="10" y="2026">125.  2017-04-11 17:59:50 +0000     5195 bytes  mode/jsx/jsx.js</tspan>
-<tspan x="10" y="2042">126.  2017-04-11 17:59:50 +0000    12007 bytes  mode/julia/julia.js</tspan>
-<tspan x="10" y="2058">127.  2017-04-11 17:59:50 +0000     7668 bytes  mode/livescript/livescript.js</tspan>
-<tspan x="10" y="2074">128.  2017-04-11 17:59:50 +0000     5950 bytes  mode/lua/lua.js</tspan>
-<tspan x="10" y="2090">129.  2017-04-11 17:59:50 +0000    25600 bytes  mode/markdown/markdown.js</tspan>
-<tspan x="10" y="2106">130.  2017-04-11 17:59:50 +0000     5612 bytes  mode/mathematica/mathematica.js</tspan>
-<tspan x="10" y="2122">131.  2017-04-11 17:59:50 +0000     3649 bytes  mode/mbox/mbox.js</tspan>
-<tspan x="10" y="2138">132.  2017-04-11 17:59:50 +0000    15098 bytes  mode/meta.js</tspan>
-<tspan x="10" y="2154">133.  2017-04-11 17:59:50 +0000    10082 bytes  mode/mirc/mirc.js</tspan>
-<tspan x="10" y="2170">134.  2017-04-11 17:59:50 +0000     5097 bytes  mode/mllike/mllike.js</tspan>
-<tspan x="10" y="2186">135.  2017-04-11 17:59:50 +0000     6930 bytes  mode/modelica/modelica.js</tspan>
-<tspan x="10" y="2202">136.  2017-04-11 17:59:50 +0000     6820 bytes  mode/mscgen/mscgen.js</tspan>
-<tspan x="10" y="2218">137.  2017-04-11 17:59:50 +0000     5354 bytes  mode/mumps/mumps.js</tspan>
-<tspan x="10" y="2234">138.  2017-04-11 17:59:50 +0000    10164 bytes  mode/nginx/nginx.js</tspan>
-<tspan x="10" y="2250">139.  2017-04-11 17:59:50 +0000     7642 bytes  mode/nsis/nsis.js</tspan>
-<tspan x="10" y="2266">140.  2017-04-11 17:59:50 +0000     6643 bytes  mode/ntriples/ntriples.js</tspan>
-<tspan x="10" y="2282">141.  2017-04-11 17:59:50 +0000     4507 bytes  mode/octave/octave.js</tspan>
-<tspan x="10" y="2298">142.  2017-04-11 17:59:50 +0000     6658 bytes  mode/oz/oz.js</tspan>
-<tspan x="10" y="2314">143.  2017-04-11 17:59:50 +0000     3055 bytes  mode/pascal/pascal.js</tspan>
-<tspan x="10" y="2330">144.  2017-04-11 17:59:50 +0000     3577 bytes  mode/pegjs/pegjs.js</tspan>
-<tspan x="10" y="2346">145.  2017-04-11 17:59:50 +0000    56135 bytes  mode/perl/perl.js</tspan>
-<tspan x="10" y="2362">146.  2017-04-11 17:59:50 +0000    18224 bytes  mode/php/php.js</tspan>
-<tspan x="10" y="2378">147.  2017-04-11 17:59:50 +0000     5810 bytes  mode/pig/pig.js</tspan>
-<tspan x="10" y="2394">148.  2017-04-11 17:59:50 +0000    12896 bytes  mode/powershell/powershell.js</tspan>
-<tspan x="10" y="2410">149.  2017-04-11 17:59:50 +0000     2171 bytes  mode/properties/properties.js</tspan>
-<tspan x="10" y="2426">150.  2017-04-11 17:59:50 +0000     2113 bytes  mode/protobuf/protobuf.js</tspan>
-<tspan x="10" y="2442">151.  2017-04-11 17:59:50 +0000    16046 bytes  mode/pug/pug.js</tspan>
-<tspan x="10" y="2458">152.  2017-04-11 17:59:50 +0000     7568 bytes  mode/puppet/puppet.js</tspan>
-<tspan x="10" y="2474">153.  2017-04-11 17:59:50 +0000    12477 bytes  mode/python/python.js</tspan>
-<tspan x="10" y="2490">154.  2017-04-11 17:59:50 +0000     6617 bytes  mode/q/q.js</tspan>
-<tspan x="10" y="2506">155.  2017-04-11 17:59:50 +0000     6396 bytes  mode/r/r.js</tspan>
-<tspan x="10" y="2522">156.  2017-04-11 17:59:50 +0000     2180 bytes  mode/rpm/changes/index.html</tspan>
-<tspan x="10" y="2538">157.  2017-04-11 17:59:50 +0000     3775 bytes  mode/rpm/rpm.js</tspan>
-<tspan x="10" y="2554">158.  2017-04-11 17:59:50 +0000    17547 bytes  mode/rst/rst.js</tspan>
-<tspan x="10" y="2570">159.  2017-04-11 17:59:50 +0000    10516 bytes  mode/ruby/ruby.js</tspan>
-<tspan x="10" y="2586">160.  2017-04-11 17:59:50 +0000     3025 bytes  mode/rust/rust.js</tspan>
-<tspan x="10" y="2602">161.  2017-04-11 17:59:50 +0000    16105 bytes  mode/sas/sas.js</tspan>
-<tspan x="10" y="2618">162.  2017-04-11 17:59:50 +0000    11509 bytes  mode/sass/sass.js</tspan>
-<tspan x="10" y="2634">163.  2017-04-11 17:59:50 +0000    13439 bytes  mode/scheme/scheme.js</tspan>
-<tspan x="10" y="2650">164.  2017-04-11 17:59:50 +0000     4048 bytes  mode/shell/shell.js</tspan>
-<tspan x="10" y="2666">165.  2017-04-11 17:59:50 +0000     4285 bytes  mode/sieve/sieve.js</tspan>
-<tspan x="10" y="2682">166.  2017-04-11 17:59:50 +0000    18026 bytes  mode/slim/slim.js</tspan>
-<tspan x="10" y="2698">167.  2017-04-11 17:59:50 +0000     4543 bytes  mode/smalltalk/smalltalk.js</tspan>
-<tspan x="10" y="2714">168.  2017-04-11 17:59:50 +0000     6828 bytes  mode/smarty/smarty.js</tspan>
-<tspan x="10" y="2730">169.  2017-04-11 17:59:50 +0000     2678 bytes  mode/solr/solr.js</tspan>
-<tspan x="10" y="2746">170.  2017-04-11 17:59:50 +0000    11629 bytes  mode/soy/soy.js</tspan>
-<tspan x="10" y="2762">171.  2017-04-11 17:59:50 +0000     6335 bytes  mode/sparql/sparql.js</tspan>
-<tspan x="10" y="2778">172.  2017-04-11 17:59:50 +0000     3139 bytes  mode/spreadsheet/spreadsheet.js</tspan>
-<tspan x="10" y="2794">173.  2017-04-11 17:59:50 +0000    37351 bytes  mode/sql/sql.js</tspan>
-<tspan x="10" y="2810">174.  2017-04-11 17:59:50 +0000     6932 bytes  mode/stex/stex.js</tspan>
-<tspan x="10" y="2826">175.  2017-04-11 17:59:50 +0000    42172 bytes  mode/stylus/stylus.js</tspan>
-<tspan x="10" y="2842">176.  2017-04-11 17:59:50 +0000     7168 bytes  mode/swift/swift.js</tspan>
-<tspan x="10" y="2858">177.  2017-04-11 17:59:50 +0000     4920 bytes  mode/tcl/tcl.js</tspan>
-<tspan x="10" y="2874">178.  2017-04-11 17:59:50 +0000    13842 bytes  mode/textile/textile.js</tspan>
-<tspan x="10" y="2890">179.  2017-04-11 17:59:50 +0000      220 bytes  mode/tiddlywiki/tiddlywiki.css</tspan>
-<tspan x="10" y="2906">180.  2017-04-11 17:59:50 +0000     8510 bytes  mode/tiddlywiki/tiddlywiki.js</tspan>
-<tspan x="10" y="2922">181.  2017-04-11 17:59:50 +0000      439 bytes  mode/tiki/tiki.css</tspan>
-<tspan x="10" y="2938">182.  2017-04-11 17:59:50 +0000     8490 bytes  mode/tiki/tiki.js</tspan>
-<tspan x="10" y="2954">183.  2017-04-11 17:59:50 +0000     2897 bytes  mode/toml/toml.js</tspan>
-<tspan x="10" y="2970">184.  2017-04-11 17:59:50 +0000     2496 bytes  mode/tornado/tornado.js</tspan>
-<tspan x="10" y="2986">185.  2017-04-11 17:59:50 +0000     2392 bytes  mode/troff/troff.js</tspan>
-<tspan x="10" y="3002">186.  2017-04-11 17:59:50 +0000     7857 bytes  mode/ttcn-cfg/ttcn-cfg.js</tspan>
-<tspan x="10" y="3018">187.  2017-04-11 17:59:50 +0000    10155 bytes  mode/ttcn/ttcn.js</tspan>
-<tspan x="10" y="3034">188.  2017-04-11 17:59:50 +0000     4849 bytes  mode/turtle/turtle.js</tspan>
-<tspan x="10" y="3050">189.  2017-04-11 17:59:50 +0000     4570 bytes  mode/twig/twig.js</tspan>
-<tspan x="10" y="3066">190.  2017-04-11 17:59:50 +0000     8774 bytes  mode/vb/vb.js</tspan>
-<tspan x="10" y="3082">191.  2017-04-11 17:59:50 +0000    13793 bytes  mode/vbscript/vbscript.js</tspan>
-<tspan x="10" y="3098">192.  2017-04-11 17:59:50 +0000     7098 bytes  mode/velocity/velocity.js</tspan>
-<tspan x="10" y="3114">193.  2017-04-11 17:59:50 +0000    24576 bytes  mode/verilog/verilog.js</tspan>
-<tspan x="10" y="3130">194.  2017-04-11 17:59:50 +0000     6704 bytes  mode/vhdl/vhdl.js</tspan>
-<tspan x="10" y="3146">195.  2017-04-11 17:59:50 +0000     2544 bytes  mode/vue/vue.js</tspan>
-<tspan x="10" y="3162">196.  2017-04-11 17:59:50 +0000     5784 bytes  mode/webidl/webidl.js</tspan>
-<tspan x="10" y="3178">197.  2017-04-11 17:59:50 +0000    12570 bytes  mode/xml/xml.js</tspan>
-<tspan x="10" y="3194">198.  2017-04-11 17:59:50 +0000    14470 bytes  mode/xquery/xquery.js</tspan>
-<tspan x="10" y="3210">199.  2017-04-11 17:59:50 +0000     5424 bytes  mode/yacas/yacas.js</tspan>
-<tspan x="10" y="3226">200.  2017-04-11 17:59:50 +0000     2292 bytes  mode/yaml-frontmatter/yaml-frontmatter.js</tspan>
-<tspan x="10" y="3242">201.  2017-04-11 17:59:50 +0000     3693 bytes  mode/yaml/yaml.js</tspan>
-<tspan x="10" y="3258">202.  2017-04-11 17:59:50 +0000     3577 bytes  mode/z80/z80.js</tspan>
-<tspan x="10" y="3274">203.  2017-04-11 17:59:50 +0000    29468 bytes  package.json</tspan>
-<tspan x="10" y="3290">204.  2017-04-11 17:59:50 +0000      608 bytes  rollup.config.js</tspan>
-<tspan x="10" y="3306">205.  2017-04-11 17:59:50 +0000       68 bytes  src/codemirror.js</tspan>
-<tspan x="10" y="3322">206.  2017-04-11 17:59:50 +0000     4501 bytes  src/display/Display.js</tspan>
-<tspan x="10" y="3338">207.  2017-04-11 17:59:50 +0000     1499 bytes  src/display/focus.js</tspan>
-<tspan x="10" y="3354">208.  2017-04-11 17:59:50 +0000     1255 bytes  src/display/gutters.js</tspan>
-<tspan x="10" y="3370">209.  2017-04-11 17:59:50 +0000     2172 bytes  src/display/highlight_worker.js</tspan>
-<tspan x="10" y="3386">210.  2017-04-11 17:59:50 +0000     2147 bytes  src/display/line_numbers.js</tspan>
-<tspan x="10" y="3402">211.  2017-04-11 17:59:50 +0000      581 bytes  src/display/mode_state.js</tspan>
-<tspan x="10" y="3418">212.  2017-04-11 17:59:50 +0000     8631 bytes  src/display/operations.js</tspan>
-<tspan x="10" y="3434">213.  2017-04-11 17:59:50 +0000     5897 bytes  src/display/scroll_events.js</tspan>
-<tspan x="10" y="3450">214.  2017-04-11 17:59:50 +0000     7258 bytes  src/display/scrollbars.js</tspan>
-<tspan x="10" y="3466">215.  2017-04-11 17:59:50 +0000     6217 bytes  src/display/scrolling.js</tspan>
-<tspan x="10" y="3482">216.  2017-04-11 17:59:50 +0000     5660 bytes  src/display/selection.js</tspan>
-<tspan x="10" y="3498">217.  2017-04-11 17:59:50 +0000     9038 bytes  src/display/update_display.js</tspan>
-<tspan x="10" y="3514">218.  2017-04-11 17:59:50 +0000     7804 bytes  src/display/update_line.js</tspan>
-<tspan x="10" y="3530">219.  2017-04-11 17:59:50 +0000     2606 bytes  src/display/update_lines.js</tspan>
-<tspan x="10" y="3546">220.  2017-04-11 17:59:50 +0000     5370 bytes  src/display/view_tracking.js</tspan>
-<tspan x="10" y="3562">221.  2017-04-11 17:59:50 +0000     8440 bytes  src/edit/CodeMirror.js</tspan>
-<tspan x="10" y="3578">222.  2017-04-11 17:59:50 +0000     7451 bytes  src/edit/commands.js</tspan>
-<tspan x="10" y="3594">223.  2017-04-11 17:59:50 +0000     1043 bytes  src/edit/deleteNearSelection.js</tspan>
-<tspan x="10" y="3610">224.  2017-04-11 17:59:50 +0000     4662 bytes  src/edit/drop_events.js</tspan>
-<tspan x="10" y="3626">225.  2017-04-11 17:59:50 +0000     1939 bytes  src/edit/fromTextArea.js</tspan>
-<tspan x="10" y="3642">226.  2017-04-11 17:59:50 +0000     1417 bytes  src/edit/global_events.js</tspan>
-<tspan x="10" y="3658">227.  2017-04-11 17:59:50 +0000     4973 bytes  src/edit/key_events.js</tspan>
-<tspan x="10" y="3674">228.  2017-04-11 17:59:50 +0000     2532 bytes  src/edit/legacy.js</tspan>
-<tspan x="10" y="3690">229.  2017-04-11 17:59:50 +0000     2036 bytes  src/edit/main.js</tspan>
-<tspan x="10" y="3706">230.  2017-04-11 17:59:50 +0000    21530 bytes  src/edit/methods.js</tspan>
-<tspan x="10" y="3722">231.  2017-04-11 17:59:50 +0000    11484 bytes  src/edit/mouse_events.js</tspan>
-<tspan x="10" y="3738">232.  2017-04-11 17:59:50 +0000     6880 bytes  src/edit/options.js</tspan>
-<tspan x="10" y="3754">233.  2017-04-11 17:59:50 +0000      267 bytes  src/edit/utils.js</tspan>
-<tspan x="10" y="3770">234.  2017-04-11 17:59:50 +0000    18174 bytes  src/input/ContentEditableInput.js</tspan>
-<tspan x="10" y="3786">235.  2017-04-11 17:59:50 +0000    13729 bytes  src/input/TextareaInput.js</tspan>
-<tspan x="10" y="3802">236.  2017-04-11 17:59:50 +0000     2726 bytes  src/input/indent.js</tspan>
-<tspan x="10" y="3818">237.  2017-04-11 17:59:50 +0000     5309 bytes  src/input/input.js</tspan>
-<tspan x="10" y="3834">238.  2017-04-11 17:59:50 +0000     6267 bytes  src/input/keymap.js</tspan>
-<tspan x="10" y="3850">239.  2017-04-11 17:59:50 +0000      998 bytes  src/input/keynames.js</tspan>
-<tspan x="10" y="3866">240.  2017-04-11 17:59:50 +0000     5009 bytes  src/input/movement.js</tspan>
-<tspan x="10" y="3882">241.  2017-04-11 17:59:50 +0000     7531 bytes  src/line/highlight.js</tspan>
-<tspan x="10" y="3898">242.  2017-04-11 17:59:50 +0000    13643 bytes  src/line/line_data.js</tspan>
-<tspan x="10" y="3914">243.  2017-04-11 17:59:50 +0000     1525 bytes  src/line/pos.js</tspan>
-<tspan x="10" y="3930">244.  2017-04-11 17:59:50 +0000      253 bytes  src/line/saw_special_spans.js</tspan>
-<tspan x="10" y="3946">245.  2017-04-11 17:59:50 +0000    13706 bytes  src/line/spans.js</tspan>
-<tspan x="10" y="3962">246.  2017-04-11 17:59:50 +0000     2570 bytes  src/line/utils_line.js</tspan>
-<tspan x="10" y="3978">247.  2017-04-11 17:59:50 +0000    24316 bytes  src/measurement/position_measurement.js</tspan>
-<tspan x="10" y="3994">248.  2017-04-11 17:59:50 +0000     1044 bytes  src/measurement/widgets.js</tspan>
-<tspan x="10" y="4010">249.  2017-04-11 17:59:50 +0000    17050 bytes  src/model/Doc.js</tspan>
-<tspan x="10" y="4026">250.  2017-04-11 17:59:50 +0000     2212 bytes  src/model/change_measurement.js</tspan>
-<tspan x="10" y="4042">251.  2017-04-11 17:59:50 +0000    11947 bytes  src/model/changes.js</tspan>
-<tspan x="10" y="4058">252.  2017-04-11 17:59:50 +0000     5354 bytes  src/model/chunk.js</tspan>
-<tspan x="10" y="4074">253.  2017-04-11 17:59:50 +0000     4196 bytes  src/model/document_data.js</tspan>
-<tspan x="10" y="4090">254.  2017-04-11 17:59:50 +0000     8262 bytes  src/model/history.js</tspan>
-<tspan x="10" y="4106">255.  2017-04-11 17:59:50 +0000     2816 bytes  src/model/line_widget.js</tspan>
-<tspan x="10" y="4122">256.  2017-04-11 17:59:50 +0000    11121 bytes  src/model/mark_text.js</tspan>
-<tspan x="10" y="4138">257.  2017-04-11 17:59:50 +0000     2781 bytes  src/model/selection.js</tspan>
-<tspan x="10" y="4154">258.  2017-04-11 17:59:50 +0000     7440 bytes  src/model/selection_updates.js</tspan>
-<tspan x="10" y="4170">259.  2017-04-11 17:59:50 +0000     3238 bytes  src/modes.js</tspan>
-<tspan x="10" y="4186">260.  2017-04-11 17:59:50 +0000     2555 bytes  src/util/StringStream.js</tspan>
-<tspan x="10" y="4202">261.  2017-04-11 17:59:50 +0000     8370 bytes  src/util/bidi.js</tspan>
-<tspan x="10" y="4218">262.  2017-04-11 17:59:50 +0000     1852 bytes  src/util/browser.js</tspan>
-<tspan x="10" y="4234">263.  2017-04-11 17:59:50 +0000     3306 bytes  src/util/dom.js</tspan>
-<tspan x="10" y="4250">264.  2017-04-11 17:59:50 +0000     3256 bytes  src/util/event.js</tspan>
-<tspan x="10" y="4266">265.  2017-04-11 17:59:50 +0000     2988 bytes  src/util/feature_detection.js</tspan>
-<tspan x="10" y="4282">266.  2017-04-11 17:59:50 +0000     6459 bytes  src/util/misc.js</tspan>
-<tspan x="10" y="4298">267.  2017-04-11 17:59:50 +0000     2151 bytes  src/util/operation_group.js</tspan>
-<tspan x="10" y="4314">268.  2017-04-11 17:59:50 +0000     1987 bytes  theme/3024-day.css</tspan>
-<tspan x="10" y="4330">269.  2017-04-11 17:59:50 +0000     2076 bytes  theme/3024-night.css</tspan>
-<tspan x="10" y="4346">270.  2017-04-11 17:59:50 +0000     1942 bytes  theme/abcdef.css</tspan>
-<tspan x="10" y="4362">271.  2017-04-11 17:59:50 +0000      103 bytes  theme/ambiance-mobile.css</tspan>
-<tspan x="10" y="4378">272.  2017-04-11 17:59:50 +0000    26468 bytes  theme/ambiance.css</tspan>
-<tspan x="10" y="4394">273.  2017-04-11 17:59:50 +0000     2112 bytes  theme/base16-dark.css</tspan>
-<tspan x="10" y="4410">274.  2017-04-11 17:59:50 +0000     2114 bytes  theme/base16-light.css</tspan>
-<tspan x="10" y="4426">275.  2017-04-11 17:59:50 +0000     1413 bytes  theme/bespin.css</tspan>
-<tspan x="10" y="4442">276.  2017-04-11 17:59:50 +0000     1931 bytes  theme/blackboard.css</tspan>
-<tspan x="10" y="4458">277.  2017-04-11 17:59:50 +0000     1703 bytes  theme/cobalt.css</tspan>
-<tspan x="10" y="4474">278.  2017-04-11 17:59:50 +0000     1647 bytes  theme/colorforth.css</tspan>
-<tspan x="10" y="4490">279.  2017-04-11 17:59:50 +0000     2014 bytes  theme/dracula.css</tspan>
-<tspan x="10" y="4506">280.  2017-04-11 17:59:50 +0000     2581 bytes  theme/duotone-dark.css</tspan>
-<tspan x="10" y="4522">281.  2017-04-11 17:59:50 +0000     2685 bytes  theme/duotone-light.css</tspan>
-<tspan x="10" y="4538">282.  2017-04-11 17:59:50 +0000     1159 bytes  theme/eclipse.css</tspan>
-<tspan x="10" y="4554">283.  2017-04-11 17:59:50 +0000      781 bytes  theme/elegant.css</tspan>
-<tspan x="10" y="4570">284.  2017-04-11 17:59:50 +0000     2254 bytes  theme/erlang-dark.css</tspan>
-<tspan x="10" y="4586">285.  2017-04-11 17:59:50 +0000     1469 bytes  theme/hopscotch.css</tspan>
-<tspan x="10" y="4602">286.  2017-04-11 17:59:50 +0000     2499 bytes  theme/icecoder.css</tspan>
-<tspan x="10" y="4618">287.  2017-04-11 17:59:50 +0000     1442 bytes  theme/isotope.css</tspan>
-<tspan x="10" y="4634">288.  2017-04-11 17:59:50 +0000     2599 bytes  theme/lesser-dark.css</tspan>
-<tspan x="10" y="4650">289.  2017-04-11 17:59:50 +0000     3930 bytes  theme/liquibyte.css</tspan>
-<tspan x="10" y="4666">290.  2017-04-11 17:59:50 +0000     2441 bytes  theme/material.css</tspan>
-<tspan x="10" y="4682">291.  2017-04-11 17:59:50 +0000     2112 bytes  theme/mbo.css</tspan>
-<tspan x="10" y="4698">292.  2017-04-11 17:59:50 +0000     5167 bytes  theme/mdn-like.css</tspan>
-<tspan x="10" y="4714">293.  2017-04-11 17:59:50 +0000     2138 bytes  theme/midnight.css</tspan>
-<tspan x="10" y="4730">294.  2017-04-11 17:59:50 +0000     1915 bytes  theme/monokai.css</tspan>
-<tspan x="10" y="4746">295.  2017-04-11 17:59:50 +0000      688 bytes  theme/neat.css</tspan>
-<tspan x="10" y="4762">296.  2017-04-11 17:59:50 +0000      947 bytes  theme/neo.css</tspan>
-<tspan x="10" y="4778">297.  2017-04-11 17:59:50 +0000     1720 bytes  theme/night.css</tspan>
-<tspan x="10" y="4794">298.  2017-04-11 17:59:50 +0000     1775 bytes  theme/panda-syntax.css</tspan>
-<tspan x="10" y="4810">299.  2017-04-11 17:59:50 +0000     2078 bytes  theme/paraiso-dark.css</tspan>
-<tspan x="10" y="4826">300.  2017-04-11 17:59:50 +0000     2078 bytes  theme/paraiso-light.css</tspan>
-<tspan x="10" y="4842">301.  2017-04-11 17:59:50 +0000     2450 bytes  theme/pastel-on-dark.css</tspan>
-<tspan x="10" y="4858">302.  2017-04-11 17:59:50 +0000     1514 bytes  theme/railscasts.css</tspan>
-<tspan x="10" y="4874">303.  2017-04-11 17:59:50 +0000     1772 bytes  theme/rubyblue.css</tspan>
-<tspan x="10" y="4890">304.  2017-04-11 17:59:50 +0000     1984 bytes  theme/seti.css</tspan>
-<tspan x="10" y="4906">305.  2017-04-11 17:59:50 +0000     5444 bytes  theme/solarized.css</tspan>
-<tspan x="10" y="4922">306.  2017-04-11 17:59:50 +0000     1909 bytes  theme/the-matrix.css</tspan>
-<tspan x="10" y="4938">307.  2017-04-11 17:59:50 +0000     1769 bytes  theme/tomorrow-night-bright.css</tspan>
-<tspan x="10" y="4954">308.  2017-04-11 17:59:50 +0000     2439 bytes  theme/tomorrow-night-eighties.css</tspan>
-<tspan x="10" y="4970">309.  2017-04-11 17:59:50 +0000     2419 bytes  theme/ttcn.css</tspan>
-<tspan x="10" y="4986">310.  2017-04-11 17:59:50 +0000     2135 bytes  theme/twilight.css</tspan>
-<tspan x="10" y="5002">311.  2017-04-11 17:59:50 +0000     2111 bytes  theme/vibrant-ink.css</tspan>
-<tspan x="10" y="5018">312.  2017-04-11 17:59:50 +0000     3005 bytes  theme/xq-dark.css</tspan>
-<tspan x="10" y="5034">313.  2017-04-11 17:59:50 +0000     2226 bytes  theme/xq-light.css</tspan>
-<tspan x="10" y="5050">314.  2017-04-11 17:59:50 +0000     1859 bytes  theme/yeti.css</tspan>
-<tspan x="10" y="5066">315.  2017-04-11 17:59:50 +0000     1990 bytes  theme/zenburn.css</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 17:34:25 +0000  2644800 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 17:34:25 +0000     8343 bytes  AUTHORS</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 17:34:25 +0000    67971 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 17:34:25 +0000     3689 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 17:34:25 +0000     1107 bytes  LICENSE</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 17:34:25 +0000     1645 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 17:34:25 +0000     9117 bytes  addon/comment/comment.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 17:34:25 +0000     3399 bytes  addon/comment/continuecomment.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 17:34:25 +0000      507 bytes  addon/dialog/dialog.css</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 17:34:25 +0000     4938 bytes  addon/dialog/dialog.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 17:34:25 +0000     1543 bytes  addon/display/autorefresh.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 17:34:25 +0000      116 bytes  addon/display/fullscreen.css</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 17:34:25 +0000     1494 bytes  addon/display/fullscreen.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 17:34:25 +0000     4274 bytes  addon/display/panel.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 17:34:25 +0000     2139 bytes  addon/display/placeholder.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 17:34:25 +0000     1915 bytes  addon/display/rulers.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 17:34:25 +0000     7240 bytes  addon/edit/closebrackets.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 17:34:25 +0000     7705 bytes  addon/edit/closetag.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 17:34:25 +0000     1836 bytes  addon/edit/continuelist.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 17:34:25 +0000     5349 bytes  addon/edit/matchbrackets.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 17:34:25 +0000     2355 bytes  addon/edit/matchtags.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 17:34:25 +0000     1003 bytes  addon/edit/trailingspace.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 17:34:25 +0000     3939 bytes  addon/fold/brace-fold.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 17:34:25 +0000     2161 bytes  addon/fold/comment-fold.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 17:34:25 +0000     4751 bytes  addon/fold/foldcode.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 17:34:25 +0000      435 bytes  addon/fold/foldgutter.css</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 17:34:25 +0000     4631 bytes  addon/fold/foldgutter.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 17:34:25 +0000     1689 bytes  addon/fold/indent-fold.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 17:34:25 +0000     1605 bytes  addon/fold/markdown-fold.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 17:34:25 +0000     6630 bytes  addon/fold/xml-fold.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 17:34:25 +0000     1680 bytes  addon/hint/anyword-hint.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 17:34:25 +0000     2165 bytes  addon/hint/css-hint.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 17:34:25 +0000    11341 bytes  addon/hint/html-hint.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 17:34:25 +0000     6437 bytes  addon/hint/javascript-hint.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 17:34:25 +0000      623 bytes  addon/hint/show-hint.css</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 17:34:25 +0000    16116 bytes  addon/hint/show-hint.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 17:34:25 +0000     9154 bytes  addon/hint/sql-hint.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 17:34:25 +0000     4735 bytes  addon/hint/xml-hint.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 17:34:25 +0000     1270 bytes  addon/lint/coffeescript-lint.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 17:34:25 +0000     1146 bytes  addon/lint/css-lint.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 17:34:25 +0000     1513 bytes  addon/lint/html-lint.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 17:34:25 +0000     4469 bytes  addon/lint/javascript-lint.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 17:34:25 +0000      954 bytes  addon/lint/json-lint.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 17:34:25 +0000     2999 bytes  addon/lint/lint.css</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 17:34:25 +0000     8251 bytes  addon/lint/lint.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 17:34:25 +0000     1072 bytes  addon/lint/yaml-lint.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 17:34:25 +0000     3249 bytes  addon/merge/merge.css</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 17:34:25 +0000    37394 bytes  addon/merge/merge.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-18 17:34:25 +0000     2277 bytes  addon/mode/loadmode.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-18 17:34:25 +0000     4624 bytes  addon/mode/multiplex.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-18 17:34:25 +0000      833 bytes  addon/mode/multiplex_test.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-18 17:34:25 +0000     3228 bytes  addon/mode/overlay.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-18 17:34:25 +0000     7899 bytes  addon/mode/simple.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-18 17:34:25 +0000     1303 bytes  addon/runmode/colorize.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-18 17:34:25 +0000     5302 bytes  addon/runmode/runmode-standalone.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-18 17:34:25 +0000     2499 bytes  addon/runmode/runmode.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-18 17:34:25 +0000     6528 bytes  addon/runmode/runmode.node.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-18 17:34:25 +0000     4443 bytes  addon/scroll/annotatescrollbar.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-18 17:34:25 +0000     1581 bytes  addon/scroll/scrollpastend.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-18 17:34:25 +0000     1347 bytes  addon/scroll/simplescrollbars.css</tspan>
+<tspan x="10" y="986"> 60.  2017-04-18 17:34:25 +0000     5462 bytes  addon/scroll/simplescrollbars.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-18 17:34:25 +0000     1940 bytes  addon/search/jump-to-line.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-18 17:34:25 +0000     5994 bytes  addon/search/match-highlighter.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-18 17:34:25 +0000      188 bytes  addon/search/matchesonscrollbar.css</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-18 17:34:25 +0000     3808 bytes  addon/search/matchesonscrollbar.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-18 17:34:25 +0000    10021 bytes  addon/search/search.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-18 17:34:25 +0000     7723 bytes  addon/search/searchcursor.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-18 17:34:25 +0000     2506 bytes  addon/selection/active-line.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-18 17:34:25 +0000     3845 bytes  addon/selection/mark-selection.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-18 17:34:25 +0000     3292 bytes  addon/selection/selection-pointer.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-18 17:34:25 +0000     1872 bytes  addon/tern/tern.css</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-18 17:34:25 +0000    24563 bytes  addon/tern/tern.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-18 17:34:25 +0000     1208 bytes  addon/tern/worker.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-18 17:34:25 +0000     5479 bytes  addon/wrap/hardwrap.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-18 17:34:25 +0000    13481 bytes  keymap/emacs.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-18 17:34:25 +0000    22599 bytes  keymap/sublime.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-18 17:34:25 +0000   200736 bytes  keymap/vim.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-18 17:34:25 +0000     8217 bytes  lib/codemirror.css</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-18 17:34:25 +0000   358669 bytes  lib/codemirror.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-18 17:34:25 +0000     4736 bytes  mode/apl/apl.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-18 17:34:25 +0000     2378 bytes  mode/asciiarmor/asciiarmor.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-18 17:34:25 +0000     7735 bytes  mode/asn.1/asn.1.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-18 17:34:25 +0000     7437 bytes  mode/asterisk/asterisk.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-18 17:34:25 +0000     2174 bytes  mode/brainfuck/brainfuck.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-18 17:34:25 +0000    30943 bytes  mode/clike/clike.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-18 17:34:25 +0000    16005 bytes  mode/clojure/clojure.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-18 17:34:25 +0000     2600 bytes  mode/cmake/cmake.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-18 17:34:25 +0000    10288 bytes  mode/cobol/cobol.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-18 17:34:25 +0000     9884 bytes  mode/coffeescript/coffeescript.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-18 17:34:25 +0000     4569 bytes  mode/commonlisp/commonlisp.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-18 17:34:25 +0000    12818 bytes  mode/crystal/crystal.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-18 17:34:25 +0000    37494 bytes  mode/css/css.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-18 17:34:25 +0000     6362 bytes  mode/cypher/cypher.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-18 17:34:25 +0000     7566 bytes  mode/d/d.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-18 17:34:25 +0000     5114 bytes  mode/dart/dart.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-18 17:34:25 +0000     1138 bytes  mode/diff/diff.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-18 17:34:25 +0000    11791 bytes  mode/django/django.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-18 17:34:25 +0000     2221 bytes  mode/dockerfile/dockerfile.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-18 17:34:25 +0000     4814 bytes  mode/dtd/dtd.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-18 17:34:25 +0000    10112 bytes  mode/dylan/dylan.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-18 17:34:25 +0000     6085 bytes  mode/ebnf/ebnf.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-18 17:34:25 +0000     8843 bytes  mode/ecl/ecl.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-18 17:34:25 +0000     3744 bytes  mode/eiffel/eiffel.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-18 17:34:25 +0000     5552 bytes  mode/elm/elm.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-18 17:34:25 +0000    18887 bytes  mode/erlang/erlang.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-18 17:34:25 +0000     2919 bytes  mode/factor/factor.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-18 17:34:25 +0000     4703 bytes  mode/fcl/fcl.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-18 17:34:25 +0000     5230 bytes  mode/forth/forth.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-18 17:34:25 +0000     8686 bytes  mode/fortran/fortran.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-18 17:34:25 +0000     8886 bytes  mode/gas/gas.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-18 17:34:25 +0000     5137 bytes  mode/gfm/gfm.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-18 17:34:25 +0000    13257 bytes  mode/gherkin/gherkin.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-18 17:34:25 +0000     6022 bytes  mode/go/go.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-18 17:34:25 +0000     7892 bytes  mode/groovy/groovy.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-18 17:34:25 +0000     5353 bytes  mode/haml/haml.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-18 17:34:25 +0000     2172 bytes  mode/handlebars/handlebars.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-18 17:34:25 +0000     1390 bytes  mode/haskell-literate/haskell-literate.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-18 17:34:25 +0000     8109 bytes  mode/haskell/haskell.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-18 17:34:25 +0000    17568 bytes  mode/haxe/haxe.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-18 17:34:25 +0000     1417 bytes  mode/htmlembedded/htmlembedded.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-18 17:34:25 +0000     5599 bytes  mode/htmlmixed/htmlmixed.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-18 17:34:25 +0000     2795 bytes  mode/http/http.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-18 17:34:25 +0000    14889 bytes  mode/idl/idl.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-18 17:34:25 +0000    31132 bytes  mode/javascript/javascript.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-18 17:34:25 +0000     4284 bytes  mode/jinja2/jinja2.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-18 17:34:25 +0000     5195 bytes  mode/jsx/jsx.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-18 17:34:25 +0000    12007 bytes  mode/julia/julia.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-18 17:34:25 +0000     7668 bytes  mode/livescript/livescript.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-18 17:34:25 +0000     5950 bytes  mode/lua/lua.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-18 17:34:25 +0000    25600 bytes  mode/markdown/markdown.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-18 17:34:25 +0000     5612 bytes  mode/mathematica/mathematica.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-18 17:34:25 +0000     3649 bytes  mode/mbox/mbox.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-18 17:34:25 +0000    15098 bytes  mode/meta.js</tspan>
+<tspan x="10" y="2154">133.  2017-04-18 17:34:25 +0000    10082 bytes  mode/mirc/mirc.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-18 17:34:25 +0000     5097 bytes  mode/mllike/mllike.js</tspan>
+<tspan x="10" y="2186">135.  2017-04-18 17:34:25 +0000     6930 bytes  mode/modelica/modelica.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-18 17:34:25 +0000     6820 bytes  mode/mscgen/mscgen.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-18 17:34:25 +0000     5354 bytes  mode/mumps/mumps.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-18 17:34:25 +0000    10164 bytes  mode/nginx/nginx.js</tspan>
+<tspan x="10" y="2250">139.  2017-04-18 17:34:25 +0000     7642 bytes  mode/nsis/nsis.js</tspan>
+<tspan x="10" y="2266">140.  2017-04-18 17:34:25 +0000     6643 bytes  mode/ntriples/ntriples.js</tspan>
+<tspan x="10" y="2282">141.  2017-04-18 17:34:25 +0000     4507 bytes  mode/octave/octave.js</tspan>
+<tspan x="10" y="2298">142.  2017-04-18 17:34:25 +0000     6658 bytes  mode/oz/oz.js</tspan>
+<tspan x="10" y="2314">143.  2017-04-18 17:34:25 +0000     3055 bytes  mode/pascal/pascal.js</tspan>
+<tspan x="10" y="2330">144.  2017-04-18 17:34:25 +0000     3577 bytes  mode/pegjs/pegjs.js</tspan>
+<tspan x="10" y="2346">145.  2017-04-18 17:34:25 +0000    56135 bytes  mode/perl/perl.js</tspan>
+<tspan x="10" y="2362">146.  2017-04-18 17:34:25 +0000    18224 bytes  mode/php/php.js</tspan>
+<tspan x="10" y="2378">147.  2017-04-18 17:34:25 +0000     5810 bytes  mode/pig/pig.js</tspan>
+<tspan x="10" y="2394">148.  2017-04-18 17:34:25 +0000    12896 bytes  mode/powershell/powershell.js</tspan>
+<tspan x="10" y="2410">149.  2017-04-18 17:34:25 +0000     2171 bytes  mode/properties/properties.js</tspan>
+<tspan x="10" y="2426">150.  2017-04-18 17:34:25 +0000     2113 bytes  mode/protobuf/protobuf.js</tspan>
+<tspan x="10" y="2442">151.  2017-04-18 17:34:25 +0000    16046 bytes  mode/pug/pug.js</tspan>
+<tspan x="10" y="2458">152.  2017-04-18 17:34:25 +0000     7568 bytes  mode/puppet/puppet.js</tspan>
+<tspan x="10" y="2474">153.  2017-04-18 17:34:25 +0000    12477 bytes  mode/python/python.js</tspan>
+<tspan x="10" y="2490">154.  2017-04-18 17:34:25 +0000     6617 bytes  mode/q/q.js</tspan>
+<tspan x="10" y="2506">155.  2017-04-18 17:34:25 +0000     6396 bytes  mode/r/r.js</tspan>
+<tspan x="10" y="2522">156.  2017-04-18 17:34:25 +0000     2180 bytes  mode/rpm/changes/index.html</tspan>
+<tspan x="10" y="2538">157.  2017-04-18 17:34:25 +0000     3775 bytes  mode/rpm/rpm.js</tspan>
+<tspan x="10" y="2554">158.  2017-04-18 17:34:25 +0000    17547 bytes  mode/rst/rst.js</tspan>
+<tspan x="10" y="2570">159.  2017-04-18 17:34:25 +0000    10516 bytes  mode/ruby/ruby.js</tspan>
+<tspan x="10" y="2586">160.  2017-04-18 17:34:25 +0000     3025 bytes  mode/rust/rust.js</tspan>
+<tspan x="10" y="2602">161.  2017-04-18 17:34:25 +0000    16105 bytes  mode/sas/sas.js</tspan>
+<tspan x="10" y="2618">162.  2017-04-18 17:34:25 +0000    11509 bytes  mode/sass/sass.js</tspan>
+<tspan x="10" y="2634">163.  2017-04-18 17:34:25 +0000    13439 bytes  mode/scheme/scheme.js</tspan>
+<tspan x="10" y="2650">164.  2017-04-18 17:34:25 +0000     4048 bytes  mode/shell/shell.js</tspan>
+<tspan x="10" y="2666">165.  2017-04-18 17:34:25 +0000     4285 bytes  mode/sieve/sieve.js</tspan>
+<tspan x="10" y="2682">166.  2017-04-18 17:34:25 +0000    18026 bytes  mode/slim/slim.js</tspan>
+<tspan x="10" y="2698">167.  2017-04-18 17:34:25 +0000     4543 bytes  mode/smalltalk/smalltalk.js</tspan>
+<tspan x="10" y="2714">168.  2017-04-18 17:34:25 +0000     6828 bytes  mode/smarty/smarty.js</tspan>
+<tspan x="10" y="2730">169.  2017-04-18 17:34:25 +0000     2678 bytes  mode/solr/solr.js</tspan>
+<tspan x="10" y="2746">170.  2017-04-18 17:34:25 +0000    11629 bytes  mode/soy/soy.js</tspan>
+<tspan x="10" y="2762">171.  2017-04-18 17:34:25 +0000     6335 bytes  mode/sparql/sparql.js</tspan>
+<tspan x="10" y="2778">172.  2017-04-18 17:34:25 +0000     3139 bytes  mode/spreadsheet/spreadsheet.js</tspan>
+<tspan x="10" y="2794">173.  2017-04-18 17:34:25 +0000    37351 bytes  mode/sql/sql.js</tspan>
+<tspan x="10" y="2810">174.  2017-04-18 17:34:25 +0000     6932 bytes  mode/stex/stex.js</tspan>
+<tspan x="10" y="2826">175.  2017-04-18 17:34:25 +0000    42172 bytes  mode/stylus/stylus.js</tspan>
+<tspan x="10" y="2842">176.  2017-04-18 17:34:25 +0000     7168 bytes  mode/swift/swift.js</tspan>
+<tspan x="10" y="2858">177.  2017-04-18 17:34:25 +0000     4920 bytes  mode/tcl/tcl.js</tspan>
+<tspan x="10" y="2874">178.  2017-04-18 17:34:25 +0000    13842 bytes  mode/textile/textile.js</tspan>
+<tspan x="10" y="2890">179.  2017-04-18 17:34:25 +0000      220 bytes  mode/tiddlywiki/tiddlywiki.css</tspan>
+<tspan x="10" y="2906">180.  2017-04-18 17:34:25 +0000     8510 bytes  mode/tiddlywiki/tiddlywiki.js</tspan>
+<tspan x="10" y="2922">181.  2017-04-18 17:34:25 +0000      439 bytes  mode/tiki/tiki.css</tspan>
+<tspan x="10" y="2938">182.  2017-04-18 17:34:25 +0000     8490 bytes  mode/tiki/tiki.js</tspan>
+<tspan x="10" y="2954">183.  2017-04-18 17:34:25 +0000     2897 bytes  mode/toml/toml.js</tspan>
+<tspan x="10" y="2970">184.  2017-04-18 17:34:25 +0000     2496 bytes  mode/tornado/tornado.js</tspan>
+<tspan x="10" y="2986">185.  2017-04-18 17:34:25 +0000     2392 bytes  mode/troff/troff.js</tspan>
+<tspan x="10" y="3002">186.  2017-04-18 17:34:25 +0000     7857 bytes  mode/ttcn-cfg/ttcn-cfg.js</tspan>
+<tspan x="10" y="3018">187.  2017-04-18 17:34:25 +0000    10155 bytes  mode/ttcn/ttcn.js</tspan>
+<tspan x="10" y="3034">188.  2017-04-18 17:34:25 +0000     4849 bytes  mode/turtle/turtle.js</tspan>
+<tspan x="10" y="3050">189.  2017-04-18 17:34:25 +0000     4570 bytes  mode/twig/twig.js</tspan>
+<tspan x="10" y="3066">190.  2017-04-18 17:34:25 +0000     8774 bytes  mode/vb/vb.js</tspan>
+<tspan x="10" y="3082">191.  2017-04-18 17:34:25 +0000    13793 bytes  mode/vbscript/vbscript.js</tspan>
+<tspan x="10" y="3098">192.  2017-04-18 17:34:25 +0000     7098 bytes  mode/velocity/velocity.js</tspan>
+<tspan x="10" y="3114">193.  2017-04-18 17:34:25 +0000    24576 bytes  mode/verilog/verilog.js</tspan>
+<tspan x="10" y="3130">194.  2017-04-18 17:34:25 +0000     6704 bytes  mode/vhdl/vhdl.js</tspan>
+<tspan x="10" y="3146">195.  2017-04-18 17:34:25 +0000     2544 bytes  mode/vue/vue.js</tspan>
+<tspan x="10" y="3162">196.  2017-04-18 17:34:25 +0000     5784 bytes  mode/webidl/webidl.js</tspan>
+<tspan x="10" y="3178">197.  2017-04-18 17:34:25 +0000    12570 bytes  mode/xml/xml.js</tspan>
+<tspan x="10" y="3194">198.  2017-04-18 17:34:25 +0000    14470 bytes  mode/xquery/xquery.js</tspan>
+<tspan x="10" y="3210">199.  2017-04-18 17:34:25 +0000     5424 bytes  mode/yacas/yacas.js</tspan>
+<tspan x="10" y="3226">200.  2017-04-18 17:34:25 +0000     2292 bytes  mode/yaml-frontmatter/yaml-frontmatter.js</tspan>
+<tspan x="10" y="3242">201.  2017-04-18 17:34:25 +0000     3693 bytes  mode/yaml/yaml.js</tspan>
+<tspan x="10" y="3258">202.  2017-04-18 17:34:25 +0000     3577 bytes  mode/z80/z80.js</tspan>
+<tspan x="10" y="3274">203.  2017-04-18 17:34:25 +0000    29468 bytes  package.json</tspan>
+<tspan x="10" y="3290">204.  2017-04-18 17:34:25 +0000      608 bytes  rollup.config.js</tspan>
+<tspan x="10" y="3306">205.  2017-04-18 17:34:25 +0000       68 bytes  src/codemirror.js</tspan>
+<tspan x="10" y="3322">206.  2017-04-18 17:34:25 +0000     4501 bytes  src/display/Display.js</tspan>
+<tspan x="10" y="3338">207.  2017-04-18 17:34:25 +0000     1499 bytes  src/display/focus.js</tspan>
+<tspan x="10" y="3354">208.  2017-04-18 17:34:25 +0000     1255 bytes  src/display/gutters.js</tspan>
+<tspan x="10" y="3370">209.  2017-04-18 17:34:25 +0000     2172 bytes  src/display/highlight_worker.js</tspan>
+<tspan x="10" y="3386">210.  2017-04-18 17:34:25 +0000     2147 bytes  src/display/line_numbers.js</tspan>
+<tspan x="10" y="3402">211.  2017-04-18 17:34:25 +0000      581 bytes  src/display/mode_state.js</tspan>
+<tspan x="10" y="3418">212.  2017-04-18 17:34:25 +0000     8631 bytes  src/display/operations.js</tspan>
+<tspan x="10" y="3434">213.  2017-04-18 17:34:25 +0000     5897 bytes  src/display/scroll_events.js</tspan>
+<tspan x="10" y="3450">214.  2017-04-18 17:34:25 +0000     7258 bytes  src/display/scrollbars.js</tspan>
+<tspan x="10" y="3466">215.  2017-04-18 17:34:25 +0000     6217 bytes  src/display/scrolling.js</tspan>
+<tspan x="10" y="3482">216.  2017-04-18 17:34:25 +0000     5660 bytes  src/display/selection.js</tspan>
+<tspan x="10" y="3498">217.  2017-04-18 17:34:25 +0000     9038 bytes  src/display/update_display.js</tspan>
+<tspan x="10" y="3514">218.  2017-04-18 17:34:25 +0000     7804 bytes  src/display/update_line.js</tspan>
+<tspan x="10" y="3530">219.  2017-04-18 17:34:25 +0000     2606 bytes  src/display/update_lines.js</tspan>
+<tspan x="10" y="3546">220.  2017-04-18 17:34:25 +0000     5370 bytes  src/display/view_tracking.js</tspan>
+<tspan x="10" y="3562">221.  2017-04-18 17:34:25 +0000     8440 bytes  src/edit/CodeMirror.js</tspan>
+<tspan x="10" y="3578">222.  2017-04-18 17:34:25 +0000     7451 bytes  src/edit/commands.js</tspan>
+<tspan x="10" y="3594">223.  2017-04-18 17:34:25 +0000     1043 bytes  src/edit/deleteNearSelection.js</tspan>
+<tspan x="10" y="3610">224.  2017-04-18 17:34:25 +0000     4662 bytes  src/edit/drop_events.js</tspan>
+<tspan x="10" y="3626">225.  2017-04-18 17:34:25 +0000     1939 bytes  src/edit/fromTextArea.js</tspan>
+<tspan x="10" y="3642">226.  2017-04-18 17:34:25 +0000     1417 bytes  src/edit/global_events.js</tspan>
+<tspan x="10" y="3658">227.  2017-04-18 17:34:25 +0000     4973 bytes  src/edit/key_events.js</tspan>
+<tspan x="10" y="3674">228.  2017-04-18 17:34:25 +0000     2532 bytes  src/edit/legacy.js</tspan>
+<tspan x="10" y="3690">229.  2017-04-18 17:34:25 +0000     2036 bytes  src/edit/main.js</tspan>
+<tspan x="10" y="3706">230.  2017-04-18 17:34:25 +0000    21530 bytes  src/edit/methods.js</tspan>
+<tspan x="10" y="3722">231.  2017-04-18 17:34:25 +0000    11484 bytes  src/edit/mouse_events.js</tspan>
+<tspan x="10" y="3738">232.  2017-04-18 17:34:25 +0000     6880 bytes  src/edit/options.js</tspan>
+<tspan x="10" y="3754">233.  2017-04-18 17:34:25 +0000      267 bytes  src/edit/utils.js</tspan>
+<tspan x="10" y="3770">234.  2017-04-18 17:34:25 +0000    18174 bytes  src/input/ContentEditableInput.js</tspan>
+<tspan x="10" y="3786">235.  2017-04-18 17:34:25 +0000    13729 bytes  src/input/TextareaInput.js</tspan>
+<tspan x="10" y="3802">236.  2017-04-18 17:34:25 +0000     2726 bytes  src/input/indent.js</tspan>
+<tspan x="10" y="3818">237.  2017-04-18 17:34:25 +0000     5309 bytes  src/input/input.js</tspan>
+<tspan x="10" y="3834">238.  2017-04-18 17:34:25 +0000     6267 bytes  src/input/keymap.js</tspan>
+<tspan x="10" y="3850">239.  2017-04-18 17:34:25 +0000      998 bytes  src/input/keynames.js</tspan>
+<tspan x="10" y="3866">240.  2017-04-18 17:34:25 +0000     5009 bytes  src/input/movement.js</tspan>
+<tspan x="10" y="3882">241.  2017-04-18 17:34:25 +0000     7531 bytes  src/line/highlight.js</tspan>
+<tspan x="10" y="3898">242.  2017-04-18 17:34:25 +0000    13643 bytes  src/line/line_data.js</tspan>
+<tspan x="10" y="3914">243.  2017-04-18 17:34:25 +0000     1525 bytes  src/line/pos.js</tspan>
+<tspan x="10" y="3930">244.  2017-04-18 17:34:25 +0000      253 bytes  src/line/saw_special_spans.js</tspan>
+<tspan x="10" y="3946">245.  2017-04-18 17:34:25 +0000    13706 bytes  src/line/spans.js</tspan>
+<tspan x="10" y="3962">246.  2017-04-18 17:34:25 +0000     2570 bytes  src/line/utils_line.js</tspan>
+<tspan x="10" y="3978">247.  2017-04-18 17:34:25 +0000    24316 bytes  src/measurement/position_measurement.js</tspan>
+<tspan x="10" y="3994">248.  2017-04-18 17:34:25 +0000     1044 bytes  src/measurement/widgets.js</tspan>
+<tspan x="10" y="4010">249.  2017-04-18 17:34:25 +0000    17050 bytes  src/model/Doc.js</tspan>
+<tspan x="10" y="4026">250.  2017-04-18 17:34:25 +0000     2212 bytes  src/model/change_measurement.js</tspan>
+<tspan x="10" y="4042">251.  2017-04-18 17:34:25 +0000    11947 bytes  src/model/changes.js</tspan>
+<tspan x="10" y="4058">252.  2017-04-18 17:34:25 +0000     5354 bytes  src/model/chunk.js</tspan>
+<tspan x="10" y="4074">253.  2017-04-18 17:34:25 +0000     4196 bytes  src/model/document_data.js</tspan>
+<tspan x="10" y="4090">254.  2017-04-18 17:34:25 +0000     8262 bytes  src/model/history.js</tspan>
+<tspan x="10" y="4106">255.  2017-04-18 17:34:25 +0000     2816 bytes  src/model/line_widget.js</tspan>
+<tspan x="10" y="4122">256.  2017-04-18 17:34:25 +0000    11121 bytes  src/model/mark_text.js</tspan>
+<tspan x="10" y="4138">257.  2017-04-18 17:34:25 +0000     2781 bytes  src/model/selection.js</tspan>
+<tspan x="10" y="4154">258.  2017-04-18 17:34:25 +0000     7440 bytes  src/model/selection_updates.js</tspan>
+<tspan x="10" y="4170">259.  2017-04-18 17:34:25 +0000     3238 bytes  src/modes.js</tspan>
+<tspan x="10" y="4186">260.  2017-04-18 17:34:25 +0000     2555 bytes  src/util/StringStream.js</tspan>
+<tspan x="10" y="4202">261.  2017-04-18 17:34:25 +0000     8370 bytes  src/util/bidi.js</tspan>
+<tspan x="10" y="4218">262.  2017-04-18 17:34:25 +0000     1852 bytes  src/util/browser.js</tspan>
+<tspan x="10" y="4234">263.  2017-04-18 17:34:25 +0000     3306 bytes  src/util/dom.js</tspan>
+<tspan x="10" y="4250">264.  2017-04-18 17:34:25 +0000     3256 bytes  src/util/event.js</tspan>
+<tspan x="10" y="4266">265.  2017-04-18 17:34:25 +0000     2988 bytes  src/util/feature_detection.js</tspan>
+<tspan x="10" y="4282">266.  2017-04-18 17:34:25 +0000     6459 bytes  src/util/misc.js</tspan>
+<tspan x="10" y="4298">267.  2017-04-18 17:34:25 +0000     2151 bytes  src/util/operation_group.js</tspan>
+<tspan x="10" y="4314">268.  2017-04-18 17:34:25 +0000     1987 bytes  theme/3024-day.css</tspan>
+<tspan x="10" y="4330">269.  2017-04-18 17:34:25 +0000     2076 bytes  theme/3024-night.css</tspan>
+<tspan x="10" y="4346">270.  2017-04-18 17:34:25 +0000     1942 bytes  theme/abcdef.css</tspan>
+<tspan x="10" y="4362">271.  2017-04-18 17:34:25 +0000      103 bytes  theme/ambiance-mobile.css</tspan>
+<tspan x="10" y="4378">272.  2017-04-18 17:34:25 +0000    26468 bytes  theme/ambiance.css</tspan>
+<tspan x="10" y="4394">273.  2017-04-18 17:34:25 +0000     2112 bytes  theme/base16-dark.css</tspan>
+<tspan x="10" y="4410">274.  2017-04-18 17:34:25 +0000     2114 bytes  theme/base16-light.css</tspan>
+<tspan x="10" y="4426">275.  2017-04-18 17:34:25 +0000     1413 bytes  theme/bespin.css</tspan>
+<tspan x="10" y="4442">276.  2017-04-18 17:34:25 +0000     1931 bytes  theme/blackboard.css</tspan>
+<tspan x="10" y="4458">277.  2017-04-18 17:34:25 +0000     1703 bytes  theme/cobalt.css</tspan>
+<tspan x="10" y="4474">278.  2017-04-18 17:34:25 +0000     1647 bytes  theme/colorforth.css</tspan>
+<tspan x="10" y="4490">279.  2017-04-18 17:34:25 +0000     2014 bytes  theme/dracula.css</tspan>
+<tspan x="10" y="4506">280.  2017-04-18 17:34:25 +0000     2581 bytes  theme/duotone-dark.css</tspan>
+<tspan x="10" y="4522">281.  2017-04-18 17:34:25 +0000     2685 bytes  theme/duotone-light.css</tspan>
+<tspan x="10" y="4538">282.  2017-04-18 17:34:25 +0000     1159 bytes  theme/eclipse.css</tspan>
+<tspan x="10" y="4554">283.  2017-04-18 17:34:25 +0000      781 bytes  theme/elegant.css</tspan>
+<tspan x="10" y="4570">284.  2017-04-18 17:34:25 +0000     2254 bytes  theme/erlang-dark.css</tspan>
+<tspan x="10" y="4586">285.  2017-04-18 17:34:25 +0000     1469 bytes  theme/hopscotch.css</tspan>
+<tspan x="10" y="4602">286.  2017-04-18 17:34:25 +0000     2499 bytes  theme/icecoder.css</tspan>
+<tspan x="10" y="4618">287.  2017-04-18 17:34:25 +0000     1442 bytes  theme/isotope.css</tspan>
+<tspan x="10" y="4634">288.  2017-04-18 17:34:25 +0000     2599 bytes  theme/lesser-dark.css</tspan>
+<tspan x="10" y="4650">289.  2017-04-18 17:34:25 +0000     3930 bytes  theme/liquibyte.css</tspan>
+<tspan x="10" y="4666">290.  2017-04-18 17:34:25 +0000     2441 bytes  theme/material.css</tspan>
+<tspan x="10" y="4682">291.  2017-04-18 17:34:25 +0000     2112 bytes  theme/mbo.css</tspan>
+<tspan x="10" y="4698">292.  2017-04-18 17:34:25 +0000     5167 bytes  theme/mdn-like.css</tspan>
+<tspan x="10" y="4714">293.  2017-04-18 17:34:25 +0000     2138 bytes  theme/midnight.css</tspan>
+<tspan x="10" y="4730">294.  2017-04-18 17:34:25 +0000     1915 bytes  theme/monokai.css</tspan>
+<tspan x="10" y="4746">295.  2017-04-18 17:34:25 +0000      688 bytes  theme/neat.css</tspan>
+<tspan x="10" y="4762">296.  2017-04-18 17:34:25 +0000      947 bytes  theme/neo.css</tspan>
+<tspan x="10" y="4778">297.  2017-04-18 17:34:25 +0000     1720 bytes  theme/night.css</tspan>
+<tspan x="10" y="4794">298.  2017-04-18 17:34:25 +0000     1775 bytes  theme/panda-syntax.css</tspan>
+<tspan x="10" y="4810">299.  2017-04-18 17:34:25 +0000     2078 bytes  theme/paraiso-dark.css</tspan>
+<tspan x="10" y="4826">300.  2017-04-18 17:34:25 +0000     2078 bytes  theme/paraiso-light.css</tspan>
+<tspan x="10" y="4842">301.  2017-04-18 17:34:25 +0000     2450 bytes  theme/pastel-on-dark.css</tspan>
+<tspan x="10" y="4858">302.  2017-04-18 17:34:25 +0000     1514 bytes  theme/railscasts.css</tspan>
+<tspan x="10" y="4874">303.  2017-04-18 17:34:25 +0000     1772 bytes  theme/rubyblue.css</tspan>
+<tspan x="10" y="4890">304.  2017-04-18 17:34:25 +0000     1984 bytes  theme/seti.css</tspan>
+<tspan x="10" y="4906">305.  2017-04-18 17:34:25 +0000     5444 bytes  theme/solarized.css</tspan>
+<tspan x="10" y="4922">306.  2017-04-18 17:34:25 +0000     1909 bytes  theme/the-matrix.css</tspan>
+<tspan x="10" y="4938">307.  2017-04-18 17:34:25 +0000     1769 bytes  theme/tomorrow-night-bright.css</tspan>
+<tspan x="10" y="4954">308.  2017-04-18 17:34:25 +0000     2439 bytes  theme/tomorrow-night-eighties.css</tspan>
+<tspan x="10" y="4970">309.  2017-04-18 17:34:25 +0000     2419 bytes  theme/ttcn.css</tspan>
+<tspan x="10" y="4986">310.  2017-04-18 17:34:25 +0000     2135 bytes  theme/twilight.css</tspan>
+<tspan x="10" y="5002">311.  2017-04-18 17:34:25 +0000     2111 bytes  theme/vibrant-ink.css</tspan>
+<tspan x="10" y="5018">312.  2017-04-18 17:34:25 +0000     3005 bytes  theme/xq-dark.css</tspan>
+<tspan x="10" y="5034">313.  2017-04-18 17:34:25 +0000     2226 bytes  theme/xq-light.css</tspan>
+<tspan x="10" y="5050">314.  2017-04-18 17:34:25 +0000     1859 bytes  theme/yeti.css</tspan>
+<tspan x="10" y="5066">315.  2017-04-18 17:34:25 +0000     1990 bytes  theme/zenburn.css</tspan>
 </text>
 </svg>
