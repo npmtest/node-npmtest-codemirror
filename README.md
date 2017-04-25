@@ -1,6 +1,6 @@
 # npmtest-codemirror
 
-#### test coverage for  [codemirror (v5.25.0)](http://codemirror.net)  [![npm package](https://img.shields.io/npm/v/npmtest-codemirror.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-codemirror) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-codemirror.svg)](https://travis-ci.org/npmtest/node-npmtest-codemirror)
+#### basic test coverage for  [codemirror (v5.25.2)](http://codemirror.net)  [![npm package](https://img.shields.io/npm/v/npmtest-codemirror.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-codemirror) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-codemirror.svg)](https://travis-ci.org/npmtest/node-npmtest-codemirror)
 
 #### Full-featured in-browser code editor
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-codemirror/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-codemirror/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-codemirror/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-codemirror/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-codemirror/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-codemirror/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-codemirror/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-codemirror/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-codemirror/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-codemirror/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-codemirror/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-codemirror/build/coverage.html/index.html)
 
@@ -59,6 +59,9 @@
         },
         {
             "name": "Adam King"
+        },
+        {
+            "name": "Adam Particka"
         },
         {
             "name": "adanlobato"
@@ -643,6 +646,9 @@
             "name": "flack"
         },
         {
+            "name": "Florian Felten"
+        },
+        {
             "name": "ForbesLindesay"
         },
         {
@@ -836,6 +842,9 @@
         },
         {
             "name": "Jamie Hill"
+        },
+        {
+            "name": "Jamie Morris"
         },
         {
             "name": "Jan Jongboom"
@@ -1295,6 +1304,9 @@
             "name": "McBrainy"
         },
         {
+            "name": "mce2"
+        },
+        {
             "name": "melpon"
         },
         {
@@ -1464,6 +1476,9 @@
             "name": "pabloferz"
         },
         {
+            "name": "Pablo Zubieta"
+        },
+        {
             "name": "Page"
         },
         {
@@ -1584,6 +1599,9 @@
             "name": "Remi Nyborg"
         },
         {
+            "name": "Renaud Durlin"
+        },
+        {
             "name": "Richard Denton"
         },
         {
@@ -1657,6 +1675,9 @@
         },
         {
             "name": "sathyamoorthi"
+        },
+        {
+            "name": "Saul Costa"
         },
         {
             "name": "S. Chris Colbert"
@@ -1950,6 +1971,9 @@
             "name": "Zhang Hao"
         },
         {
+            "name": "Ziv"
+        },
+        {
             "name": "zziuni"
         },
         {
@@ -1970,10 +1994,10 @@
         "lib": "./lib"
     },
     "dist": {
-        "shasum": "78e06939c7bb41f65707b8aa9c5328111948b756",
-        "tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.25.0.tgz"
+        "shasum": "8c77677ca9c9248d757d3a07ed1e89a8404850b7",
+        "tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.25.2.tgz"
     },
-    "gitHead": "727b10ab632bdd4eaa41a6ca3766a5c50b5562da",
+    "gitHead": "2474ce6e2e1254812a7800b55fb7a295dc34669b",
     "homepage": "http://codemirror.net",
     "jspm": {
         "directories": {},
@@ -2005,7 +2029,8 @@
         "test": "node ./test/run.js",
         "watch": "rollup -w -c"
     },
-    "version": "5.25.0"
+    "version": "5.25.2",
+    "bin": {}
 }
 ```
 
